@@ -1,7 +1,3 @@
----
-metatype: json
----
-
 {
   "identifier": "org.bschlagel.sn-condensed-view",
   "name": "SN Condensed View",

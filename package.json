@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-condensed-view",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "sn_condensed_view.css",
   "sn": {
     "main": "sn_condensed_view.css"

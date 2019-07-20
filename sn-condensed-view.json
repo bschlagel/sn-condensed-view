@@ -5,7 +5,7 @@
   "area": "themes",
   "version": "1.0.0",
   "description": "Condensed view theme.",
-  "url": "https://raw.githubusercontent.com/bschlagel/sn-condensed-view/master/src/main.scss",
+  "url": "https://raw.githubusercontent.com/bschlagel/sn-condensed-view/master/dist/dist.css",
   "download_url": "https://github.com/bschlagel/sn-condensed-view/archive/master.zip",
   "latest_url": "https://raw.githubusercontent.com/bschlagel/sn-condensed-view/master/sn-condensed-view.json"
 }

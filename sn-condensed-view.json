@@ -1,0 +1,15 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "org.bschlagel.sn-condensed-view",
+  "name": "SN Condensed View",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "Condensed view theme.",
+  "url": "https://github.com/bschlagel/sn-condensed-view/blob/master/src/main.scss",
+  "download_url": "https://github.com/bschlagel/sn-condensed-view/archive/master.zip",
+  "latest_url": "https://github.com/bschlagel/sn-condensed-view/blob/master/src/main.scss"
+}

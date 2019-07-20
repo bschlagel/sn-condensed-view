@@ -5,7 +5,7 @@
     "identifier": "org.bschlagel.sn-condensed-view",
     "name": "SN Condensed View",
     "content_type": "SN|Theme",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "Condensed view theme.",
     "url": "https://cdn.jsdelivr.net/gh/bschlagel/sn-condensed-view@0.0.1/sn_condensed_view.css",
     "download_url": "https://github.com/bschlagel/sn-condensed-view/archive/master.zip",

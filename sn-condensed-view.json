@@ -1,13 +1,13 @@
 {
-        "sn": {
-                "main": "solarized_light.css"
-        },
-        "identifier": "org.bschlagel.sn-condensed-view",
-        "name": "SN Condensed View",
-        "content_type": "SN|Theme",
-        "version": "1.0.0",
-        "description": "Condensed view theme.",
-        "url": "https://raw.githubusercontent.com/bschlagel/sn-condensed-view/master/sn_condensed_view.css",
-        "download_url": "https://github.com/bschlagel/sn-condensed-view/archive/master.zip",
-        "latest_url": "https://raw.githubusercontent.com/bschlagel/sn-condensed-view/master/sn-condensed-view.json"
+    "sn": {
+        "main": "sn_condensed_view.css"
+    },
+    "identifier": "org.bschlagel.sn-condensed-view",
+    "name": "SN Condensed View",
+    "content_type": "SN|Theme",
+    "version": "1.0.0",
+    "description": "Condensed view theme.",
+    "url": "https://raw.githubusercontent.com/bschlagel/sn-condensed-view/master/sn_condensed_view.css",
+    "download_url": "https://github.com/bschlagel/sn-condensed-view/archive/master.zip",
+    "latest_url": "https://raw.githubusercontent.com/bschlagel/sn-condensed-view/master/sn-condensed-view.json"
 }

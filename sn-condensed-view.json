@@ -7,7 +7,7 @@
     "content_type": "SN|Theme",
     "version": "1.0.0",
     "description": "Condensed view theme.",
-    "url": "https://cdn.jsdelivr.net/gh/bschlagel/sn-condensed-view@master/sn_condensed_view.css",
+    "url": "https://cdn.jsdelivr.net/gh/bschlagel/sn-condensed-view@0.0.1/sn_condensed_view.css",
     "download_url": "https://github.com/bschlagel/sn-condensed-view/archive/master.zip",
     "latest_url": "https://raw.githubusercontent.com/bschlagel/sn-condensed-view/master/sn-condensed-view.json"
 }
